@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Course Map Google Maps Demo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="none">None</string>
+</resources>
