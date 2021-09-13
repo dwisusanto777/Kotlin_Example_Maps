@@ -30,6 +30,21 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".OverlaysActivity"
+            android:label="@string/title_activity_overlays"></activity>
+        <activity
+            android:name=".CircleActivity"
+            android:label="@string/title_activity_circle" />
+        <activity
+            android:name=".PolygonsActivity"
+            android:label="@string/title_activity_polygons" />
+        <activity
+            android:name=".PolylinesActivity"
+            android:label="@string/title_activity_polylines" />
+        <activity
+            android:name=".MapsMarkerActivity"
+            android:label="@string/title_activity_maps_marker" />
+        <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps">
             <intent-filter>
