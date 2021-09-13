@@ -30,8 +30,11 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".MyLocationLayerActivity"
+            android:label="@string/title_activity_my_location_layer"></activity>
+        <activity
             android:name=".OverlaysActivity"
-            android:label="@string/title_activity_overlays"></activity>
+            android:label="@string/title_activity_overlays" />
         <activity
             android:name=".CircleActivity"
             android:label="@string/title_activity_circle" />
